@@ -4,7 +4,7 @@
 
 #pragma comment(lib, "ws2_32.lib")
 
-#define SERVER_IP "192.168.0.115"  // Endereço IP do servidor
+#define SERVER_IP "seu_ip_aqui"  // Endereço IP do servidor
 #define SERVER_PORT 5555       // Porta do servidor
 
 // Função auxiliar para verificar se o caractere é letra, número ou espaço
